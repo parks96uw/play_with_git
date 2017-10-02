@@ -6,12 +6,12 @@ Fork it, play with it and improve it!
 
 # My Favorite cities
 
-* Amsterdam
-* Nuremberg
-* Shanghai
+* Seoul
+* Seattle
+* Portland
 
 ## My favorite animals
 
-1. cat
+1. rabbit
 1. dog
-1. horse
+1. manatee
